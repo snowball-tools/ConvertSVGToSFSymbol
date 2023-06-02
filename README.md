@@ -17,4 +17,3 @@ Convert `SVG` files to `SF Symbol`. Current impl overwrites the original `SVG`
 ## Thanks
 - original [repo](https://github.com/griffin-stewie/convertSVGToSFSymbol)
 - [article](https://techlife.cookpad.com/entry/2021/01/05/custom-symbols-en)
-# ConvertSVGToSFSymbol
